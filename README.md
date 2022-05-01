@@ -18,6 +18,7 @@ This is how my dashboard looks.
 This image shows the break down by gender. Men ride bikes at a much higher rate than women.
 
 [Link to Story](https://public.tableau.com/app/profile/prachi.patel1397/viz/NYCStory_16514254358950/NYCStory)
+
 [Link to Dashboard](https://public.tableau.com/app/profile/prachi.patel1397/viz/NYCDashboard_16514255328410/NYCDashboard)
 
 ## Summary
